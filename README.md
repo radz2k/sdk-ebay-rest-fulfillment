@@ -24,7 +24,7 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
     }
   ],
   "require": {
-    "radz2k/sdk-ebay-rest-fulfillment": "*@dev"
+    "radz2k/sdk-ebay-rest-fulfillment": "dev-master"
   }
 }
 ```
